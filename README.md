@@ -2,7 +2,9 @@
 
 This repository consists of the data and plots used in the submitted paper to Frontiers in Robotics and AI.
 
-![RL Simulation](Other-Docs/RL.mp4)
+[![RL Simulation](Other-Docs/RL.mp4)](https://github.com/user-attachments/assets/c5c8230d-ff8f-4a35-ab8a-036610818b94) 
+
+[![MPC Simulation](Other-Docs/MPC.mp4)](https://github.com/user-attachments/assets/56968def-0bb1-480a-aa2b-e96e86f05cfc)
 
 ## Task and Data Files
 
