@@ -1,7 +1,7 @@
 # Benchmarking Model Predictive Control and Reinforcement Learning Based Control for Legged Robot Locomotion
 
 This repository consists of the data and plots used in the submitted paper to Frontiers in Robotics and AI.
-Furthermore, RL compilation video can be found attached [here](https://drive.google.com/file/d/10EsDfLinf3uyhrshFjcBuM3X8EinZkND/view?usp=sharing).
+Furthermore, RL compilation video can be found attached [here](https://drive.google.com/file/d/1aj1f24CBmBGAsSCC9XLo1iht0Q5MPkZJ/view?usp=sharing).
 
 [![RL Simulation](Other-Docs/RL.mp4)](https://github.com/user-attachments/assets/c5c8230d-ff8f-4a35-ab8a-036610818b94) 
 
